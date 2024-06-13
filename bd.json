@@ -14,6 +14,11 @@
       "id": 3,
       "nome": "Beltrano",
       "email": "beltrano@mail.com"
+    },
+    {
+      "nome": "ClienteX",
+      "email": "clientex@mail.com",
+      "id": 4
     }
   ]
 }
